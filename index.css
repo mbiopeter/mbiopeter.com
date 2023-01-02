@@ -29,6 +29,9 @@ nav{
     flex-wrap: wrap;
     
 }
+.nav h1{
+    font-size:45px;
+}
 .logo{
     width: 140px;
 }
